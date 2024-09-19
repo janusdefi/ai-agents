@@ -65,6 +65,14 @@ Many DeFi protocols operate with decentralized governance, where token holders v
 
 AI agents have the potential to revolutionize DeFi by automating processes, managing risk, and optimizing financial strategies. Their ability to operate autonomously in a fast-paced, data-driven environment makes them an ideal tool for navigating the complexities of decentralized finance. However, successful integration requires addressing challenges like security, transparency, and regulatory compliance. As both AI and blockchain technologies continue to evolve, their convergence in DeFi promises to create a more efficient and intelligent financial ecosystem.
 
+Creating a robust infrastructure for a collection of AI agents to interact with a DeFi protocol requires designing a system that handles the following key tasks:
+
+1. Blockchain Interaction: Your agents need to communicate with blockchain nodes to interact with smart contracts.
+2. Data Collection and Analysis: The agents should be able to pull data from decentralized exchanges (DEXs) oracles, or other sources, and analyze it in real-time.
+3. Decision Making: The agents need a way to make decisions based on data analysis (e.g., executing trades, staking, or lending).
+4. Execution and Monitoring: Once a decision is made, the system should be able to execute the corresponding transaction on the blockchain, and monitor its status.
+5. Security and Risk Management: Your AI agents should incorporate risk management strategies, as DeFi protocols can be volatile.
+
 How does Janus use AI Agents?
 
 The long term roadmap for JanusDefi involves creating an entirely new financial ecosystem managed by AI Agents.  Janus enables a secondary layer where agents can underwrite transactions, leveraging its soft guarantee of price stability and timeframe. This unleashes an opportunity to create a decentralised insurance marketplace where transactions on the system are treated as derivatives. Agents can cover these transactions and receive rewards when they are fulfilled on the system, mitigating volatility risk and enabling real-time trading. Janus aims to function as an AI-powered central banker, swiftly responding to market shifts to prevent crashes and ensure consistent asset appreciation.  
