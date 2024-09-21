@@ -1,0 +1,11 @@
+Assumptions:
+Solidity: utilize Solidity for smart contracts.
+Oracles: utilize Chainlink for fetching external data.
+AI Agents & Underwriters: These will be stubbed as external contracts/services for now.
+Vaults: implement a basic vault system with collateral management and yield generation.
+
+High-Level Architecture:
+JanusMainProtocol: Manages vaults, token minting, and collateral.
+StablecoinFactory: Allows the creation of new stablecoins/flatcoins.
+Vault: Manages collateral and yield generation.
+Oracles: Fetches external data for price and inflation targets.
