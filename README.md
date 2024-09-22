@@ -97,7 +97,9 @@ The integration of AI into the Janus protocol is not just an enhancement but a d
 More specifically, AI is used in the following three areas.
 
 -Reward optimisation
+
 -Rebalancing between the two tokens
+
 -Risk minimisation
 
 Optimization of Rewards: At the heart of the Janus protocol lies a sophisticated rewards mechanism designed to incentivize participation and seamlessly align the interests of all stakeholders. The AI system embedded within our protocol persistently monitors participant behavior, prevailing market conditions, and various external determinants. 
