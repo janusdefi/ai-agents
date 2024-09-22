@@ -82,9 +82,13 @@ At the heart of Janus is our Omniscient AI, deployed as AI agents on Eigen Layer
 Key AI-Controlled Levers:
 
 -Issuance of New Vaults: Dynamically managed based on market conditions, user demand, and risk assessments, ensuring optimal liquidity, stability, and efficiency.
+
 -Emissions: Adjusted to optimise protocol performance in line with current market conditions.
+
 -Appreciation: Ensures steady, long-term inflation-beating asset appreciation.
+
 -Fees: Set and adjusted based on network usage, transaction volume, and economic indicators, ensuring fair pricing and a sustainable revenue model.
+
 -Stability: Maintains token stability, prevents excessive volatility, and defends against catastrophic collapse.
 
 Using AI to create Algorithmic Stability in Janus
